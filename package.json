@@ -1,0 +1,16 @@
+{
+  "name": "starwars_movieapp",
+  "version": "0.0.1",
+  "description": "A basic movie app for Star Wars fans",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.1"
+  }
+}
